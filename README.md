@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noman Ahmed</h1>
-<h3 align="center">A passionate competitive programmer</h3>
+<h3 align="center">Hello there! 👋 I'm a Computer Science Engineering student at BUBT, with a passion for solving complex problems using C++. I'm always eager to learn new technologies and improve my skills. My goal is to become a proficient software engineer who can contribute to meaningful and challenging projects. I believe in the power of code to transform and simplify our lives, and I'm excited to be part of this ever-evolving industry. Feel free to explore my repositories and don't hesitate to reach out or contribute. Happy coding! 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanbhuiyaan&label=Profile%20views&color=0e75b6&style=flat" alt="nomanbhuiyaan" /> </p>
 
