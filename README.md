@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 📝 I regularly write articles on [www.teknolojipremium.com](www.teknolojipremium.com)
+- 📝 I regularly write articles on [www.teknolojipremium.com](www.nomanbhuiyaan.me)
 
 - 💬 Ask me about **Html,Css,C,C++,javascript,php,Database,Algorithm,Web Development**
 
