@@ -9,15 +9,13 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 📝 I regularly write articles on [www.teknolojipremium.com](www.nomanbhuiyaan.me)
-
 - 💬 Ask me about **Html,Css,C,C++,javascript,php,Database,Algorithm,Web Development**
 
 - 📫 How to reach me **nomanbhuiyaan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nomanahmed1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nomanahmed1411" height="30" width="40" /></a>
+<a href="https://fb.com/nomanbhuiyaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nomanbhuiyaan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/nomanbhuiyaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nomanbhuiyaan" height="30" width="40" /></a>
 </p>
 
